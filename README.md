@@ -23,3 +23,6 @@ This Power BI dashboard analyzes Amazon sales data and provides insights into sa
 - Dashboard Design
 - Business Intelligence# Amazon-Sales-Dashboard
 Interactive Amazon Sales Dashboard created using Power BI for sales trend, product performance, and regional analysis.
+
+## Dashboard Preview
+- ![Dashboard] (dashboard.png%20(2).png)
